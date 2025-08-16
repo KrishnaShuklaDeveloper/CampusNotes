@@ -14,8 +14,6 @@ College-Notes-Gallery Admin Panel ->
 ![admin](https://user-images.githubusercontent.com/16975766/28489144-e2c938ae-6ed8-11e7-90f2-f104f34eeabb.png)
 
 
-### Full Demo
-[College Notes Gallery](https://www.youtube.com/watch?v=oJ7rNVoCPG0&t)
 
 ### Requirements 
 
@@ -59,12 +57,6 @@ password: userpass
 - Add login with facebook and google+ option
 - Add search notes option
 
-### Issues
-
-Please log any issues found in the repository 
-
-### If this project helped you reduce time to develop, feel free to give me a cup of coffee :)
-https://www.anirbandutta.in/pay/
 
 ### References 
 www.freshdesignweb.com
